@@ -1,0 +1,109 @@
+.jolly-lodger-regular {
+    font-family: "Jolly Lodger", system-ui;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+
+
+#logo{
+    color: #A9B4C2;
+    font-family: "Jolly Lodger";
+    font-size: 30px;
+}
+
+.nav-link{
+    color: whitesmoke;
+    text-align: center;
+    justify-content: space-between;
+    border-radius: 50px;
+}
+
+.nav-link:hover{
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 50px;
+    border-width: auto;
+}
+
+#git{
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 50px;
+    width: auto;
+}
+
+#img{
+   max-width: 100%;
+   height: auto;
+}
+
+#dts{
+    display: inline-flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 190px;
+    text-align: center;
+}
+
+.dts_cont{
+    position: relative;
+    display: block;
+}
+#me{
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+.title{
+    color: white;
+    font-size: 30px;
+}
+
+
+.dits{
+    color: white;
+    font-size: 20px;
+}
+
+#himg{
+    height: 50px;
+}
+
+#sf{
+
+    height: 40px;
+}
+
+button{
+    background-color: #00FF85;
+    border-radius: 20px;
+    height: 40px;
+    width: 150px;
+    z-index: 1;
+    transition: width 100ms, height 100ms, margin-left 100ms;
+    transition-timing-function: ease-in;
+}
+
+#ig{
+    text-decoration: none;
+    color: white;
+    font-weight: 1000;
+}
+
+#bot{
+    background: rgb(255, 255, 255);
+    width: auto;
+}
+
+
+
+
+
